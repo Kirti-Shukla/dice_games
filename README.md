@@ -1,8 +1,52 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Dice-Mania
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dice-Maina is a game platform built using the MERN stack. It offers users to select numbers from 1 to 6, role the dice on click and then gets the result. The result is the difference of number selected by the user and the number on the dice.
+
+## Authors
+    ** Training project (Batch-2)**
+
+- **Kirti Shukla**
+- Roll Number: 22015002652
+- **Ritika Dwivedi**
+- Roll Number: 22015002797
+
+- ## Features
+
+-
+
+## Technology Stack
+
+- **Frontend:**
+- React-VITE
+## Getting Started
+
+###Prerequisites
+
+Ensure you have the following installed:
+
+-npm 
+-react
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dwivedi-Ritika/Dice-Game.git
+   cd homeheaven
+   git clone https://github.com/Kirti-Shukla/dice_games.git
+   ```
+
+   ###Running the Application
+
+   1. Start the dice-game
+      ```bash
+      cd dice-mania
+      npm run dev
+      ```
+
+      3. OPen your browser and navigate to `https://localhost:3000` to see the application in action.
+     
+   ---
